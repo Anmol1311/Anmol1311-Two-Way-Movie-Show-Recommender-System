@@ -11,5 +11,5 @@ Hidden Gems Discovery: To utilize the long tail concept to recommend three movie
 https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list/data
 
 ## Tools Used
-Python: For data processing, analysis, and system development.
-Libraries and modules: Pandas,Nltk,Gensim NumPy, Scikit-learn, Matplotlib
+- Python: For data processing and analysis.
+- Libraries and modules: Pandas,Nltk,Gensim NumPy, Scikit-learn, Matplotlib
