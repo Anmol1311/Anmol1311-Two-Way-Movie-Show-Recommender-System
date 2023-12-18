@@ -12,4 +12,5 @@ https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list/da
 
 ## Tools Used
 - Python: For data processing and analysis.
-- Libraries and modules: Pandas,Nltk,Gensim NumPy, Scikit-learn, Matplotlib
+- Libraries: Pandas,Nltk,Gensim NumPy, Scikit-learn, Matplotlib
+- Word2Vec vectorizer
