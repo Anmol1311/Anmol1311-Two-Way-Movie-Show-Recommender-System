@@ -5,6 +5,7 @@ This project develops a Two-Way Movie Recommender System that leverages a dual a
 
 ## Objectives
 - Trend-Based Recommendations: To offer a list of the top 10 most popular and highly rated movies/shows in a selected genre, catering to viewers who prefer mainstream, trending content.
+- 
 - Hidden Gems Discovery: To utilize the long tail concept to recommend three movies similar to a user-selected title. These recommendations focus on high-quality films that have not amassed a large number of votes, aiming to introduce users to underrated or niche content.
 
 ## Data Sources
