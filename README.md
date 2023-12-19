@@ -15,3 +15,6 @@ https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list/da
 - Python: For data processing and analysis.
 - Libraries: Pandas,Nltk,Gensim NumPy, Scikit-learn, Matplotlib
 - Word2Vec vectorizer
+
+## Medium Article
+https://medium.com/@agrawalanmol4273/navigating-the-cinematic-universe-introducing-the-two-way-movie-recommender-system-0dc79ebe59d6
